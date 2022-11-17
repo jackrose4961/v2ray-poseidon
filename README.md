@@ -4,7 +4,7 @@
 # 注意：本项目已于 2021年下线，没有任何Telegram帐户，也没有任何销售人员,所有以 Poseidon 波塞冬名义的均为骗子，请勿相信，目前已有人被骗
 # 注意：本项目已于 2021年下线，没有任何Telegram帐户，也没有任何销售人员,所有以 Poseidon 波塞冬名义的均为骗子，请勿相信，目前已有人被骗
 #
-# 作者唯一邮箱（回复周期一个月以内） ColetteContreras@outlook.com
+# 作者唯一邮箱（所有购买过的，均可发送邮件免费获取永久离线授权，需要提供原授权码及域名等信息，回复周期一个月以内，一封如果未回复可过一周再发一次） ColetteContreras@outlook.com
 Support SSRPanel(VNetPanel), V2board, SSpanel-v3-Uim
 
 ### Features
